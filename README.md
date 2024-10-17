@@ -2,6 +2,13 @@
 
 A decentralized application for managing time-locked cryptocurrency assets on the Aptos blockchain. This DApp allows sponsors to create, manage, and distribute time-locked coins to recipients.
 
+## Contract usage 
+This dapp leverages the Aptos lockcoin smart contract, demonstrating a practical application of the contract to solve a real world problem of asset protection and transfering of inheritance to beneficiaries on the blockchain.
+
+## Challenge Track Application
+- **UI Challenge**
+- **DeFi and RWA**
+
 ## 🎯 Features
 
 - **Timed Distribution**: Set specific dates for asset distribution to beneficiaries
